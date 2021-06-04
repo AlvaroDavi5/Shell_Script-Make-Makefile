@@ -1,4 +1,5 @@
 #!/bin/bash
+# isto acima e uma shebang, onde a palavra 'bash' poderia ser substituida por 'zsh' para especificar shell de uso
 
 # variaveis
 corPadrao="\033[0m"
